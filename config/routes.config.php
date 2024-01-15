@@ -16,14 +16,4 @@ $baseConfig['routes'] = [
         '/products[/{action}[/{id:[0-9]+}]]',
         'products',
     ],
-    [
-        'GET',
-        '/baz[/{action}]',
-        'specialmodule/index',
-    ],
-    [
-        'GET',
-        '/admin[/{action}]',
-        'specialmodule/index',
-    ],
 ];

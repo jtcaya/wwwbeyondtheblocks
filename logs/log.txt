@@ -1,0 +1,39 @@
+The command "'php' '/srv/tempo/wwwbeyondtheblocks/bin/process.php' 'products:read'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /srv/tempo/wwwbeyondtheblocks/public
+
+Output:
+================
+
+
+Error Output:
+================
+
+The command "'php' '/srv/tempo/wwwbeyondtheblocks/bin/process.php' 'products:read'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /srv/tempo/wwwbeyondtheblocks/public
+
+Output:
+================
+
+
+Error Output:
+================
+
+The command "'php' '/srv/tempo/wwwbeyondtheblocks/bin/process.php' 'products:read'" failed.
+
+Exit Code: 1(General error)
+
+Working directory: /srv/tempo/wwwbeyondtheblocks/public
+
+Output:
+================
+
+
+Error Output:
+================
+

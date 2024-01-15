@@ -2,7 +2,7 @@
 
 $baseConfig['env'] = 'development'; // 'development' or 'production'
 
-$baseConfig['appName'] = 'The LightMVC Framework Skeleton Application';
+$baseConfig['appName'] = 'Beyond The Blocks';
 
 /*$baseConfig['doctrine']['DBAL']['dcm1'] = [
     'driver'   => 'pdo_mysql',
