@@ -5,12 +5,14 @@ $baseConfig['templateManager'] = 'Plates';
 $baseConfig['templates'] = [
     'templateDir' => $baseConfig['BASEDIR'] . DIRECTORY_SEPARATOR . 'templates' . DIRECTORY_SEPARATOR . 'plates_bootstrap' . DIRECTORY_SEPARATOR,
     'compileDir' => $baseConfig['BASEDIR'] . DIRECTORY_SEPARATOR . 'templates_c' . DIRECTORY_SEPARATOR,
+    'docsDir' => $baseConfig['BASEDIR'] . DIRECTORY_SEPARATOR . 'docs' . DIRECTORY_SEPARATOR . 'build' . DIRECTORY_SEPARATOR . 'html',
     'configDir' => $baseConfig['BASEDIR'] . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR,
     'cacheDir' => $baseConfig['BASEDIR'] . DIRECTORY_SEPARATOR . 'cache' . DIRECTORY_SEPARATOR,
 ];
 
 $baseConfig['view'] = [
     'urlbaseaddr' => $baseConfig['URLBASEADDR'],
+    'docsbaseaddr' => $baseConfig['templates']['docsDir'],
     'logo' => $baseConfig['URLBASEADDR'] . 'img/logo.png',
     'lightmvc_logo' => $baseConfig['URLBASEADDR'] . 'img/lightmvc_logo.png',
     'lightmvc_logo_large' => $baseConfig['URLBASEADDR'] . 'img/lightmvc_logo_large.png',

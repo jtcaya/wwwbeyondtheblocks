@@ -1,0 +1,24 @@
+{
+  "name": "wwwbeyondtheblocks",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "inline-stylesheets ./docs/build/html/index.html public/build/html/index.html && inline-script-tags public/build/html/index.html ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtcaya/wwwbeyondtheblocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtcaya/wwwbeyondtheblocks/issues"
+  },
+  "homepage": "https://github.com/jtcaya/wwwbeyondtheblocks#readme",
+  "devDependencies": {
+    "inline-scripts": "^1.7.4"
+  }
+}
