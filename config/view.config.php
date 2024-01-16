@@ -46,7 +46,7 @@ $baseConfig['view'] = [
         [
             'Home' => $baseConfig['URLBASEADDR'] . 'index',
             'Products' => $baseConfig['URLBASEADDR'] . 'products/index',
-            'Documentation' => 'https://lightmvc-framework.readthedocs.io/en/latest/?badge=latest',
+            'Documentation' => $baseConfig['URLBASEADDR'] . 'build/html/index.html',
             'API Doc' => 'http://apidocs.lightmvcframework.net/',
 
         ],

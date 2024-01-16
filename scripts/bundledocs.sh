@@ -13,5 +13,3 @@ mkdir build
 cd ../
 
 cp -f -R ./docs/build/* ./public/build
-
-sed 's/_static/build\/html\/_static/g' ./docs/build/html/index.html > ./public/build/html/index.html
