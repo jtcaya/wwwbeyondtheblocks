@@ -10,6 +10,10 @@ Welcome to Beyond The Blocks!
 It pulls data from the `Flare Docs <https://docs.flare.network/>`_ , `Metamask Docs <https://docs.metamask.io/>`_ , `Web3 Docs <https://web3js.readthedocs.io/en/latest/>`_ 
 and offers a *simple*, *intuitive* and *complete* documentation.
 
+.. note::
+
+   This project is under active development.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

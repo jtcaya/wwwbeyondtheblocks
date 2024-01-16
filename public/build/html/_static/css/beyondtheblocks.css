@@ -1,3 +1,17 @@
 a {
     color: deepskyblue;
+    transition: 0.5s;
+}
+
+a:hover, a:focus {
+    color: rgb(0, 119, 255) !important;
+}
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
 }
