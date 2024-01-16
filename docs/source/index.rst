@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Beyond The Blocks's documentation!
-
-Hello!
+Welcome to Beyond The Blocks!
 =============================================
+
+**Beyond The Blocks** is THE reference for Flare builders worldwide, written *by* Flare builders, *for* Flare builders.
+It pulls data from the `Flare Docs <https://docs.flare.network/>`_ , `Metamask Docs <https://docs.metamask.io/>`_ , `Web3 Docs <https://web3js.readthedocs.io/en/latest/>`_ 
+and offers a *simple*, *intuitive* and *complete* documentation.
 
 .. toctree::
    :maxdepth: 2

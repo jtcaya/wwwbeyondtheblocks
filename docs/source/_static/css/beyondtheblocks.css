@@ -1,0 +1,7 @@
+a {
+    color: deepskyblue;
+}
+
+a:hover, a:focus {
+    color: rgb(0, 119, 255) !important;
+}
