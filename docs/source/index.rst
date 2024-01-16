@@ -4,6 +4,8 @@
    contain the root `toctree` directive.
 
 Welcome to Beyond The Blocks's documentation!
+
+Hello!
 =============================================
 
 .. toctree::

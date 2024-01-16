@@ -6,7 +6,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "build": "inline-stylesheets ./docs/build/html/index.html public/build/html/index.html && inline-script-tags public/build/html/index.html ."
+    "build": "./scripts/bundledocs.sh"
   },
   "repository": {
     "type": "git",
